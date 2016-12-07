@@ -17,7 +17,8 @@
 
 -----
 
-
+程序界面
+![](https://github.com/loavne/Image2Char/blob/master/myexe.png)
 
 展示效果如下
 
