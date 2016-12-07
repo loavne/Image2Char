@@ -1,5 +1,8 @@
 # 图片转字符画小程序
 学习Python之余，做了个桌面小程序
+
+程序下载：
+
 你可以从中学习到：
 
 1. Python Tkinter的基本用法
@@ -17,4 +20,5 @@
 
 ![](https://github.com/loavne/Image2Char/blob/master/header.jpg)
 
-![转化的效果文本]()
+![](https://github.com/loavne/Image2Char/blob/master/abc.png)
+
