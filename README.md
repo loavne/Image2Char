@@ -1,7 +1,7 @@
 # 图片转字符画小程序
 学习Python之余，做了个桌面小程序
 
-程序下载：
+![程序下载](https://raw.githubusercontent.com/loavne/Image2Char/master/%E5%9B%BE%E7%89%87%E8%BD%AC%E5%AD%97%E7%AC%A6.exe)
 
 你可以从中学习到：
 
@@ -16,6 +16,9 @@
 5. Python 图片的处理
 
 -----
+
+
+
 展示效果如下
 
 ![](https://github.com/loavne/Image2Char/blob/master/header.jpg)
